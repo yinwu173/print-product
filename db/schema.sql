@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS printProduct_db;
-CREATE DATABASE printProduct_db;
+DROP DATABASE IF EXISTS printproduct_db;
+CREATE DATABASE printproduct_db;
